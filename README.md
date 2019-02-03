@@ -7,3 +7,5 @@ This repository contains practice of Anwser Set Programming (ASP) paradigm using
 It contains certain solutions for the book chapter's exercise and their solution writeups.
 </br>
 The solution provided are not guaranteed to be 100% correct.
+</br>
+Includes One presentation on Description Logics.
